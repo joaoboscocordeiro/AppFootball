@@ -13,6 +13,10 @@
         android:theme="@style/Theme.AppFootball"
         tools:ignore="AllowBackup">
         <activity
+            android:name=".ui.DetailActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppFootball.NoActionBar" />
+        <activity
             android:name=".ui.MainActivity"
             android:exported="true">
             <intent-filter>
@@ -21,6 +25,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

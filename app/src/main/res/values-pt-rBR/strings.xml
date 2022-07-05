@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Tela Principal -->
     <string name="app_name">AppFutebol</string>
+    <string name="floating_simulate">Simulador de Partidas</string>
+
+    <!-- Itens da Lista de Times -->
+    <string name="item_home_team">Imagem do time mandante</string>
+    <string name="item_txt_versus">X</string>
+    <string name="item_away_team">Imagem do time visitante</string>
 </resources>

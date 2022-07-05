@@ -1,3 +1,10 @@
 <resources>
+    <!-- Main Screen -->
     <string name="app_name">AppFootball</string>
+    <string name="floating_simulate">Match simulator button</string>
+
+    <!-- Item Match -->
+    <string name="item_home_team">Image Home Team</string>
+    <string name="item_txt_versus">X</string>
+    <string name="item_away_team">Image Away Team</string>
 </resources>
