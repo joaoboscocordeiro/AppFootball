@@ -5,5 +5,6 @@ Aplicativo para Simulação de Partidas de Futebol.
 
 #### 1 - Kotlin / Java
 #### 2 - ViewBinding
+#### 3 - SwipeRefreshLayout
 
 --------------------------------------------------------------------------------------------------------------------
