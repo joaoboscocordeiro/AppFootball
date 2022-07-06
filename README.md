@@ -11,4 +11,4 @@ Aplicativo para Simulação de Partidas de Futebol.
     - [desenvolvimento-android-com-viewbinding](https://github.com/joaoboscocordeiro/AppFootball)
 
 2. Criação de Telas Utilizando Componentes de Layouts
-    - [release/components-layouts]()
+    - [release/components-layouts](https://github.com/joaoboscocordeiro/AppFootball/tree/release/components-layouts)
