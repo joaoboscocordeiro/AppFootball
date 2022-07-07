@@ -3,6 +3,7 @@
     <!-- Tela Principal -->
     <string name="app_name">AppFutebol</string>
     <string name="floating_simulate">Simulador de Partidas</string>
+    <string name="error_api">Erro inesperado.</string>
 
     <!-- Itens da Lista de Times -->
     <string name="item_home_team">Imagem do time mandante</string>

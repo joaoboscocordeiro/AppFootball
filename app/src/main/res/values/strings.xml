@@ -2,6 +2,7 @@
     <!-- Main Screen -->
     <string name="app_name">AppFootball</string>
     <string name="floating_simulate">Match simulator button</string>
+    <string name="error_api">Unexpected error.</string>
 
     <!-- Item Match -->
     <string name="item_home_team">Image Home Team</string>
