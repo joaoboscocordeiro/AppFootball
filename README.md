@@ -12,3 +12,6 @@ Aplicativo para Simulação de Partidas de Futebol.
 
 2. Criação de Telas Utilizando Componentes de Layouts
     - [release/components-layouts](https://github.com/joaoboscocordeiro/AppFootball/tree/release/components-layouts)
+--------------------------------------------------------------------------------------------------------------------
+![football1](https://user-images.githubusercontent.com/59378910/178547631-fd3c7e91-b3ab-4122-99dc-982a012a1045.gif)
+![football2](https://user-images.githubusercontent.com/59378910/178547649-4eeb187a-41ee-4dff-ad73-dd1e5daeaace.gif)
